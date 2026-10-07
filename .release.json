@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "id": "2c26050e3fb1ceb95ff15aea3bf5b58fc9937852a9ede0439e40d39933e2ca7b",
+  "protocol": 760,
+  "files": {
+    "otclient.js": "6cdd0bda35cb85e13892724fae1d037da6922ad87a01cb18e0e06a090c8d58c2"
+  },
+  "sha": "648303d206796b15aaa3c64bf8375914b1f8fbd7",
+  "run_id": "37631727892"
+}
